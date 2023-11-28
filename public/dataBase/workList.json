@@ -1,0 +1,21 @@
+[
+    {
+        "icon": "../img/WorkList/Activity.png",
+        "title": "Grow Your Business",
+        "des": "We help identify the best ways to improve your business",
+        "url": "#"
+    },
+    {
+        "icon": "../img/WorkList/Heart.png",
+        "title": "Improve brand loyalty",
+        "des": "We help identify the best ways to improve your business",
+        "url": "#"
+    },
+    {
+        "icon": "../img/WorkList/Work.png",
+        "title": "Improve Business Model",
+        "des": "We help identify the best ways to improve your business",
+        "url": "#"
+    }
+
+]

@@ -1,0 +1,42 @@
+.subscribe-container {
+    max-width: 600px;
+    margin:65px auto;
+}
+
+.subscribe-title {
+    text-align: center;
+}
+
+.subscribe-title h5 {
+    text-transform: uppercase;
+    color: #20B15A;
+    margin-bottom: 25px;
+}
+
+.subscribe-title p {
+   color: gray
+}
+
+.subscribe-form {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 50px;
+}
+
+.subscribe-form input {
+    width: 70%;
+    padding: 15px;
+    border: none;
+    outline: none;
+}
+
+.subscribe-form button {
+    width: 30%;
+    border: none;
+    padding: 15px;
+    background-color: #F55F1D;
+    border-radius: 15px;
+    color: white;
+
+}

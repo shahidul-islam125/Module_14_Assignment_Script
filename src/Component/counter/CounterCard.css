@@ -1,0 +1,24 @@
+.counter-card {
+    padding: 50px;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 4px 9px 20px 0px rgba(0, 0, 0, 0.07);
+    transition: all 700ms;
+    cursor: pointer;
+}
+
+.counter-card img {
+    background-color: #D7F5DC;
+    padding: 30px;
+    border-radius: 20px;   
+}
+
+.counter-card h3 {
+    margin: 15px 0;
+
+}
+
+.counter-card:hover {
+    box-shadow: none
+}

@@ -1,0 +1,44 @@
+main{
+    background-color: #D7F5DC;
+    margin-top: -100px;
+    padding: 200px 0 55px 0;
+}
+.hero-text{
+    padding-right: 100px;
+}
+.hero-text h1 {
+    font-size: 50px;
+    line-height: 65px;
+}
+.hero-text p {
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 10px
+}
+.hero-img {
+    width: 100%;
+}
+.hero-text button {
+    background-color: #20B15A;
+    padding: 20px 30px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-weight: 600;
+    margin-top: 40px;
+    box-shadow: 0 0 20px 2px #20b15ab4;
+    transition: all 400ms;
+}
+.hero-text button:hover {
+    box-shadow: none
+}
+.partnerSection{
+    background-color: #F8FFF9;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    margin-top: 75px;
+}
+.partner-logo img {
+    padding: 0 45px;
+}

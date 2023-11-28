@@ -1,0 +1,16 @@
+
+.feature-section {
+    background-color: #F0FDF4 ;
+}
+
+
+.firstCard img,
+.restCard img {
+    width: 100%;
+}
+
+.firstCard p,
+.restCard p {
+    font-size: 14px;
+    margin: 12px 0;
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "icon": "../img/WorkList/Activity.png",
+        "number": "240452",
+        "title": "Followers"
+    },
+    {
+        "icon": "../img/WorkList/Heart.png",
+        "number": "6300",
+        "title": "Solved Problems"
+    },
+    {
+        "icon": "../img/WorkList/Work.png",
+        "number": "25000",
+        "title": "Happy Customers"
+    },
+    {
+        "icon": "../img/WorkList/Work.png",
+        "number": "360452",
+        "title": "Projects"
+    }
+
+]

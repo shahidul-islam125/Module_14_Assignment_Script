@@ -1,0 +1,11 @@
+.section-title {
+    max-width: 490px;
+    margin-bottom: 50px;
+    padding-top: 30px;
+ 
+}
+.section-title h5 {
+    text-transform: uppercase;
+    color: #20B15A;
+    margin-bottom: 25px;
+}

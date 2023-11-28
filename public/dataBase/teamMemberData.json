@@ -1,0 +1,31 @@
+[
+    {
+        "image": "../img/TeamMember/First.png" ,
+        "name": "Devon Lane",
+        "facebook": "#",
+        "twitter": "#",
+        "linked" : "#",
+        "instagram": "#"
+
+    },
+    {
+        "image": "../img/TeamMember/Second.png" ,
+        "name": "Danny Bailey",
+        "facebook": "#",
+        "twitter": "#",
+        "linked" : "#",
+        "instagram": "#"
+
+    },
+    {
+        "image": "../img/TeamMember/Third.png" ,
+        "name": "Alex Lov",
+        "facebook": "#",
+        "twitter": "#",
+        "linked" : "#",
+        "instagram": "#"
+
+    }
+]
+
+

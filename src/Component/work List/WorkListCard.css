@@ -1,0 +1,36 @@
+.work-card{
+    padding: 50px 30px;
+    background-color: white;
+    border-radius: 20px;
+    transition: all 500ms;
+    width: 100%;
+}
+.work-card img {
+    background-color: #D7F5DC;
+    padding: 30px;
+    border-radius: 20px;   
+}
+.work-card:hover {
+    box-shadow: 0 0 20px 2px rgba(110, 109, 109, 0.1);
+    transform: translateY(-20px);
+}
+.work-card h4 {
+    margin: 15px 0;
+}
+
+.work-card p {
+    font-size: 18px;
+}
+
+.work-card button {
+    border: none;
+    padding: 15px 20px;
+    background-color: white;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 45px
+}
+
+.work-card button:hover {
+    background-color: #f7f7f7;
+}
